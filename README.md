@@ -34,3 +34,7 @@ After the capture of "Bulbasaur", It gets removed from the view(map) and the pow
 <p align="center">
   <img src="pokemon5.png" height="500"/>
   </p>
+<br></br>
+<pre>
+*********************************************** END *************************************************
+</pre>
