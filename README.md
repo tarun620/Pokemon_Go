@@ -13,15 +13,15 @@ Now lets say If player(user) wants to capture "Charmander", then he'll have to m
 <p align="center">
 <img src="pokemon2.png" height="500"/>
 <br></br>
-Once the "charmander" got captured, it gets removed from the view(map).</p>
 <br></br>
-->
+**Once the "charmander" got captured, it gets removed from the view(map)**
+</p>
+<br></br>
 
 <p align="center">
 <img src="pokemon3.png" height="500"/>
-</p>
 <br></br>
-Now lets suppose the player wants to capture "Bulbasaur", he'll have to go the position where "Bulbasur" is placed i.e 37.7949568502667(lat) and -122.410494089127(long).
+Now lets suppose the player wants to capture "Bulbasaur", he'll have to go the position where "Bulbasur" is placed i.e 37.7949568502667(lat) and -122.410494089127(long).</p>
 <br></br>
 Player capturing "Bulbasaur"<br></br>
 ->
